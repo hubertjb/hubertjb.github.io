@@ -39,7 +39,7 @@ SOCIAL = (('github', 'https://github.com/hubertjb'),
 DEFAULT_PAGINATION = 5
 SUMMARY_MAX_LENGTH = 150
 
-COPYRIGHT_YEAR = 2019
+COPYRIGHT_YEAR = 2021
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
