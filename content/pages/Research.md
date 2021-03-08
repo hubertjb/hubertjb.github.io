@@ -3,8 +3,12 @@ date: 2019-09-03
 
 ## Journals
 
+[Uncovering the structure of clinical EEG signals with self-supervised learning](https://iopscience.iop.org/article/10.1088/1741-2552/abca18/meta)
+**Hubert Banville**, Omar Chehab, Aapo Hyvärinen, Denis Engemann, Alexandre Gramfort
+*Journal of Neural Engineering*, 2020
+
 [Deep learning-based electroencephalography analysis: a systematic review](https://iopscience.iop.org/article/10.1088/1741-2552/ab260c/pdf)  
-Yannick Roy\*, **Hubert Banville**\*, Isabela Albuquerque, Alexandre Gramfort, Jocelyn Faubert  
+Yannick Roy\*, **Hubert Banville**\*, Isabela Albuquerque, Alexandre Gramfort, Tiago H Falk, Jocelyn Faubert  
 *Journal of Neural Engineering*, 2019
 
 [Mental Task Evaluation for Hybrid NIRS-EEG Brain-Computer Interfaces](http://downloads.hindawi.com/journals/cin/2017/3524208.pdf)  
