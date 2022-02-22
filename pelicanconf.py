@@ -7,7 +7,7 @@ THEME = '/home/hubert/Documents/pelican-themes/Flex'
 AUTHOR = 'Hubert J. Banville'
 SITENAME = 'Hubert J. Banville'
 SITETITLE = AUTHOR
-SITESUBTITLE = '<b>PhD student</b> @ Inria, Parietal Team <br> <b>Biosignal Researcher</b> @ InteraXon Inc.'
+SITESUBTITLE = '<b>Research Scientist</b> @ InteraXon'
 SITEDESCRIPTION = 'Academic website and blog'
 SITELOGO = '/images/me.jpg'
 BROWSER_COLOR = '#333333'
@@ -20,7 +20,7 @@ STATIC_PATHS = ['images']
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Toronto'
 
 DEFAULT_LANG = 'en'
 
@@ -34,12 +34,13 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (('github', 'https://github.com/hubertjb'),
           ('linkedin', 'https://linkedin.ca/in/hubertbanville'),
-          ('book', 'https://scholar.google.com/citations?user=Qoh3xVgAAAAJ&hl=en'))
+          ('book', 'https://scholar.google.com/citations?user=Qoh3xVgAAAAJ&hl=en'),
+          ('twitter', 'https://twitter.com/hubertjbanville'))
 
 DEFAULT_PAGINATION = 5
 SUMMARY_MAX_LENGTH = 150
 
-COPYRIGHT_YEAR = 2021
+COPYRIGHT_YEAR = 2022
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
