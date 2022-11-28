@@ -7,7 +7,7 @@ THEME = '/home/hubert/Documents/pelican-themes/Flex'
 AUTHOR = 'Hubert J. Banville'
 SITENAME = 'Hubert J. Banville'
 SITETITLE = AUTHOR
-SITESUBTITLE = '<b>Research Scientist</b> @ InteraXon'
+SITESUBTITLE = '<b>AI Research Scientist</b> @ Meta AI'
 SITEDESCRIPTION = 'Academic website and blog'
 SITELOGO = '/images/me.jpg'
 BROWSER_COLOR = '#333333'
@@ -20,7 +20,7 @@ STATIC_PATHS = ['images']
 
 PATH = 'content'
 
-TIMEZONE = 'America/Toronto'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 

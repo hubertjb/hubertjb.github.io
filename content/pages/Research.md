@@ -3,15 +3,15 @@ date: 2021-05-27
 
 ## Publications
 
+[A reusable benchmark of brain-age prediction from M/EEG resting-state signals](https://www.sciencedirect.com/science/article/pii/S105381192200636X)  
+Denis Engemann, Apolline Mellot, Richard Höchenberger, **Hubert Banville**, David Sabbagh, Lukas Gemein, Tonio Ball, Alexandre Gramfort  
+*NeuroImage*, 2022  
+\[[paper](https://www.sciencedirect.com/science/article/pii/S105381192200636X)] \[[preprint](https://www.biorxiv.org/content/10.1101/2021.12.14.472691v1.full)\] \[[code](https://github.com/meeg-ml-benchmarks/meeg-brain-age-benchmark-paper)]
+
 [Robust learning from corrupted EEG with dynamic spatial filtering](https://www.sciencedirect.com/science/article/pii/S1053811922001239)  
 **Hubert Banville**, Sean U.N. Wood, Chris Aimone, Denis Engemann, Alexandre Gramfort  
 *NeuroImage*, 2022  
 \[[paper](https://www.sciencedirect.com/science/article/pii/S1053811922001239)\] \[[preprint](https://arxiv.org/abs/2105.12916)\] \[[code](https://github.com/hubertjb/dynamic-spatial-filtering)\]
-
-[A reusable benchmark of brain-age prediction from M/EEG resting-state signals](https://www.biorxiv.org/content/10.1101/2021.12.14.472691v1.full)  
-Denis Engemann, Apolline Mellot, Richard Höchenberger, **Hubert Banville**, David Sabbagh, Lukas Gemein, Tonio Ball, Alexandre Gramfort  
-*biorXiv*, 2021  
-\[[preprint](https://www.biorxiv.org/content/10.1101/2021.12.14.472691v1.full)\] \[[code](https://github.com/meeg-ml-benchmarks/meeg-brain-age-benchmark-paper)]
 
 [Uncovering the structure of clinical EEG signals with self-supervised learning](https://iopscience.iop.org/article/10.1088/1741-2552/abca18/meta)  
 **Hubert Banville**, Omar Chehab, Aapo Hyvärinen, Denis Engemann, Alexandre Gramfort  
